@@ -34,5 +34,4 @@ The Placement System is a comprehensive application designed to manage student p
 - **Database Integration**: Integrate a database to store and manage data more efficiently.
 - **Additional Features**: Add more features such as resume management and analytics.
 
-## Contributor
-- [Shreya Pai]: [paishreya2423@gmail.com]
+
