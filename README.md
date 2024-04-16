@@ -1,7 +1,9 @@
 # Placement Management System 
 
 ## Overview
-The Placement System is a comprehensive application designed to manage student placements in companies. It allows for the registration of students and companies, creation of internship records and job offers, scheduling of interviews, sending notifications, and managing feedback and events related to placements.
+### Placement System
+
+The Placement System is a basic project designed using the principles of object-oriented programming. It provides functionality for managing student placements in companies, including features for registering students and companies, creating internship records and job offers, scheduling interviews, sending notifications, and managing feedback and events related to placements. This project serves as a fundamental example of how object-oriented concepts can be applied to create a practical application for managing placements.
 
 ## Features
 - **Registration**: Register students and companies into the system.
