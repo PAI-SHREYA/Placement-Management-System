@@ -33,11 +33,8 @@ The Placement System is a basic project designed using the principles of object-
 12. **Display Events by Date**: Display all events scheduled for a particular date.
 
 ## Future Enhancements
-- **Database Integration**: Integrate a database to store and manage data more efficiently.
-- **Additional Features**: Add more features such as resume management and analytics.
+- Integrate a database to store and manage data more efficiently.
+-  More features such as resume management and analytics can be added.
 
-### Placement System
-
-The Placement System is a basic project designed using the principles of object-oriented programming. It provides functionality for managing student placements in companies, including features for registering students and companies, creating internship records and job offers, scheduling interviews, sending notifications, and managing feedback and events related to placements. This project serves as a fundamental example of how object-oriented concepts can be applied to create a practical application for managing placements.
 
 [Link to the code repository](https://github.com/PAI-SHREYA/Placement-Management-System)
